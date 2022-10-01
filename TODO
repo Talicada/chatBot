@@ -1,0 +1,4 @@
+ - Integrate Chat bot into the terminal
+  - Blockers:
+   - [ ] Authentication with Twitch
+   
